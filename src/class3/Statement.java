@@ -18,5 +18,7 @@ public class Statement {
         } else {
             System.out.println("Os números são iguais");
         }
+        
+        scanner.close();
     }
 }
